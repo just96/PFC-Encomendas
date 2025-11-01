@@ -1,33 +1,26 @@
-# PFC-Encomendas 📦
+# PFC-Orders 📦
 
-Sistema de gestão de encomendas desenvolvido como **Projeto Final de Curso** em Engenharia Informática(ano 2019).
+Order management system developed as the **Final Year Project** in Computer Engineering (2019).
 
-## 🎯Descrição
+## 🎯 Description
 
-Aplicação web que permite gerir encomendas, utilizadores, produtos, clientes e material de apoio, com funcionalidades completas para administração e operações do dia a dia.
+Web application to manage orders, users, products, clients, and support materials, with full features for administration and daily operations.
 
- ## 🧰Tecnologias Utilizadas
+## 🧰 Technologies
 
-**Frontend**: HTML, CSS, JavaScript & Bootstrap
+- **Frontend:** HTML, CSS, JavaScript & Bootstrap  
+- **Backend:** PHP  
+- **Database:** MySQL/MariaDB  
 
-**Backend**: PHP
+## ⚙️ Features
 
-**Banco de Dados**: MySQL/MariaDB
+- 👤 **User Management:** add, edit, delete, list, and export to PDF  
+- 📦 **Products & Support Materials:** add, edit, delete, list, and export to PDF  
+- 📝 **Order Management:** create, edit, delete, list, and export to PDF  
+- 🏢 **Client Management:** add, edit, delete, list, and export to PDF  
+- 🔐 **Authentication:** login and profile editing  
+- 🛒 **Ordering:** order products and support materials directly in the app  
 
-## ⚙️Funcionalidades
+## 🎬 Demo
 
-👤 Gestão de utilizadores: adicionar, editar, eliminar, listar e exportar PDF
-
-📦 Gestão de produtos e material de apoio: adicionar, editar, eliminar, listar e exportar PDF
-
-📝 Gestão de encomendas: criar, editar, eliminar, listar e exportar PDF
-
-🏢 Gestão de clientes: adicionar, editar, eliminar, listar e exportar PDF
-
-🔐 Autenticação: login e edição de perfil
-
-🛒 Encomendas: encomendar produtos e material de apoio diretamente na aplicação
-
-## 🎬 Demonstração do Projeto
-
-[▶️ Ver vídeo](https://drive.google.com/file/d/12hxY6OIn34r-q0d5VaC67CJ8QW7VY-2E/view?usp=sharing)
+[▶️ Watch Video](https://drive.google.com/file/d/12hxY6OIn34r-q0d5VaC67CJ8QW7VY-2E/view?usp=sharing)
