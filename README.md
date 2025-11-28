@@ -1,4 +1,5 @@
-# PFC-Orders 📦
+# PFC-Orders 📦 
+🎬 Demo [▶️Watch Video](https://drive.google.com/file/d/12hxY6OIn34r-q0d5VaC67CJ8QW7VY-2E/view?usp=sharing)
 
 Order management system developed as the **Final Year Project** in Computer Engineering (2019).
 
@@ -20,7 +21,3 @@ Web application to manage orders, users, products, clients, and support material
 - 🏢 **Client Management:** add, edit, delete, list, and export to PDF  
 - 🔐 **Authentication:** login and profile editing  
 - 🛒 **Ordering:** order products and support materials directly in the app  
-
-## 🎬 Demo
-
-[▶️ Watch Video](https://drive.google.com/file/d/12hxY6OIn34r-q0d5VaC67CJ8QW7VY-2E/view?usp=sharing)
